@@ -1,2 +1,2 @@
 # HTML-CV
-CV con html puro
+Pagina con CV personal
